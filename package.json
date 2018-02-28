@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "async": "~0.2.9",
-    "connect-mongo": "~0.3.3",
+    "connect-mongo": "~0.5.2",
     "emailjs": "~0.3.6",
     "express": "~3.4.1",
     "findit2": "~0.2.0",
